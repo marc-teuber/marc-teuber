@@ -1,9 +1,5 @@
 # Hallo zusammen 👋
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-glückspilz-black.svg?color=00AEC7)](https://www.linkedin.com/in/gl%C3%BCckspilz)
-[![XING](https://img.shields.io/badge/XING-marc__teuber-black.svg?color=00AEC7)](https://www.xing.com/profile/marc_teuber)
-[![Instagram](https://img.shields.io/badge/Instagram-glueckspilz.marc-black.svg?color=00AEC7)](https://www.instagram.com/glueckspilz.marc)
-
 ## ✨Interessante Internetseiten
 
 |                      | Internetseite |
